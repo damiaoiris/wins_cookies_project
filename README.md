@@ -10,4 +10,6 @@ In this data we have:
 - Each type of bot visited 500 websites and collected all cookies. 
 
 
-I started a notebook (data_notebook) where you can find the DB and some discription of the most important columns. 
+I started a notebook (data_notebook) where you can find the DB and some discription of the most important columns.
+
+*(Please don't use this data outside the project)*
