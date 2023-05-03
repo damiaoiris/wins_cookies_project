@@ -2,7 +2,7 @@
 
 ### DATA
 
-The data I added here is different from the one I mentioned previously (different experiment, different bots). I think we can start here and I will prepare the other data (finding the main cookies company can take some time). 
+The data (companies_cookie_data) I added here is different from the one I mentioned previously (only 2 bots). I think we can start here and I will prepare the other data (finding the main company setting the cookie can take some time). 
 
 In this data we have:
 
