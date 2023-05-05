@@ -1,7 +1,7 @@
 ## COOKIE: Community Observation On cooKie dIstribution on the intErnet
 
 ##### Authors
-&Iacute;ris Dami&atilde;o, Elena Candellone, Gabriela Juncosa, Emma Crenshaw, Sabina Adhikari, and Dee Adegbemijo
+&Iacute;ris Dami&atilde;o, Elena Candellone, Gabriela Juncosa, Emma Crenshaw, Sabina Adhikari, and Adeola Adegbemijo
 
 ### PURPOSE
 This repo was created as part of the Women in Network Science Collabathon 2023. It investigates whether companies differentiate between websites that contain misinformation versus those that do not when considering where to place cookies for advertising, tracking, etc.
