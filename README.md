@@ -1,4 +1,5 @@
-## Are there communities of third-parties in disinformation and non-disisnformation websites?
+## COOKIE: Community Observation On cooKie dIstribution on the intErnet
+
 
 ### DATA
 
